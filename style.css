@@ -1,0 +1,24 @@
+.album {
+    background-color: rgb(236, 236, 236);
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.cover {
+    border-radius: 5px;
+}
+
+.title {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.specs {
+    padding: 10px;
+    padding-top: 0px;
+    justify-content: space-between;
+}
+
+.tracks{
+    font-size: small;
+}
